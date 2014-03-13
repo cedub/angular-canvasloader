@@ -1,0 +1,8 @@
+{
+  "name": "angular-canvasloader",
+  "version": "0.1.0",
+  "devDependencies": {
+    "angular": "~1.2.0",
+    "lodash": "2.4.1"
+  }
+}
